@@ -37,7 +37,7 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 - Do patient with more than one diseases increase no-show rate.
 - Is the follow up scheme used appropriately.
  
-### [Analysis of chips sales with R ]()
+### [Analysis of chips sales with R ](https://drive.google.com/file/d/1Tg9Mu_1fYltgEG1EQC00vc3EQj3X8Qwd/view?usp=sharing)
 #### The project addressed the following question.
 - The month and day with the highest and the lowest sale and the causes.
 - The most prefered pack of chips
@@ -49,18 +49,19 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 1. *Internship Certificate*
    - [View Certificate (ICAMMDA)](https://drive.google.com/file/d/1MMPe3F7FeSHRXMPYPZyBtIetzUWg71HC/view?usp=sharing-)
    - [View Certificate (COGNIFYZ)](https://drive.google.com/file/d/1-9Z2sAjrg8HJCmIH3D7_HqRNyMaoFTot/view?usp=sharing)
-   - [View Certificate (FORAGE)](https://drive.google.com/file/d/1dOSSTlCfPejrBJbUJIXzkubsY5lfZqvO/view?usp=sharing))
-2. *Certificate in Data analysis and science*
-   - [View Certificate (Imperial College London)]()
-   - [View Certificate (CISCO)]()
-
+   - [View Certificate (FORAGE)](https://drive.google.com/file/d/1dOSSTlCfPejrBJbUJIXzkubsY5lfZqvO/view?usp=sharing)
+2. *Certificate in Data science,analytics and software development*
+   - [View Certificate (HP)](https://drive.google.com/file/d/1z4sho-cf-BF0OR1stJHTOi6ncUuLr_OU/view?usp=sharing)
+   - [View Certificate (HP)](https://drive.google.com/file/d/16jjrQ94Ec4CwYuVlvNf6OKIOT3k-NLty/view?usp=sharing)
+   - [View Certificate (Cousera)](https://drive.google.com/file/d/1YPH0D_aJTUT1AbfwgExRYIxxmzVV0Wpo/view?usp=sharing)
+   - [View Certificate (Cousera](https://drive.google.com/file/d/1D2bmAeY2epSftpubnmIfYFbC40pPEAZi/view?usp=sharing)
 3. *Certificate in Mathematics and Modeling*
-   - [View Certificate (Mathematics for Machine Learning)]()
-   - [View Certificate (Infectious Disease Modeling)]()
+   - [View Certificate (Modelling and Data Analytics)]({https://drive.google.com/file/d/1iJUfJkFJq6nJSJta5EJ4LONxcwg_hz-g/view?usp=sharin)
+   - [View Certificate (Infectious Disease Modeling and Analytics)](https://drive.google.com/file/d/1knthGlEhj4fRuXK4c7-0C7JbaxdJmZTW/view?usp=sharing)
   
 4. *Learning in Progress*
    - [Flutter and Firebase Chat App](https://github.com/Daniel-techgit?tab=repositories)
 
 ## Contact
-- [Email](mailto:adefisoyed@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/daniel-adefisoye)
+- [Email](mailto:oluwaseun1508@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alabi-kazeem-oluwaseun-0231b8325/)
