@@ -17,8 +17,19 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 
 ## Projects
 
-### [Peace House Book App](https://github.com/Daniel-techgit/price_app)
-A mobile application for managing and reading books. Utilizes Flutter for the front-end, Provider for state management, MongoDB for the database, and Next.js for the API backend.
+### [Shiny App for  sales analysis and Epidemiological model](https://mrjet2025.shinyapps.io/PowerBI/)
+📊 Real-time Simulation of epidemic models (SIR)
+
+🛠️ Parameter Control sliders for infection rate, recovery rate, population, etc.
+
+📈 Interactive Visualizations including:
+
+- Line charts of susceptible/infected/recovered populations
+
+- Drill-down bar charts for subgroup analysis
+
+- Data tables with model outputs
+
 
 ### [IoT Home Automation](https://github.com/Daniel-techgit?tab=repositories)
 An IoT learning project that allows users to control home appliances via a mobile app. Built with Arduino and Flutter.
