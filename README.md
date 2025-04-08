@@ -2,7 +2,8 @@
 # Portfolio
 
 ## About Me
-I am a passionate software developer with expertise in Python, IoT, embedded systems, mobile app development, and backend development. I have worked on various projects, including IoT devices and mobile applications. Additionally, I have experience in mathematical modeling, including infectious disease modeling. I am proficient in multiple programming languages and tools, including R, Dart, JavaScript, C++, and more. I am dedicated to continuous learning and innovation.
+I am self-motivated, organized, a fast learner, and a passionate student. I respect humanity, enjoy responsibility, and am eager to take new challenges. I am a diligent, goal-oriented, love learning, and passionate about developing my tech skills.
+I aim to use my education, work experience, and multi-skill orientation to benefit society and the institution since I am passionate about helping students grow and develop. Additionally, I have experience in mathematical modeling, including infectious disease modeling. I am dedicated to continuous learning and innovation.
 
 ## Skills
 - *Software Development:* Flutter (Dart)
