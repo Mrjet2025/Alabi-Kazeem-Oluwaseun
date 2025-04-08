@@ -6,14 +6,11 @@ I am self-motivated, organized, a fast learner, and a passionate student. I resp
 I aim to use my education, work experience, and multi-skill orientation to benefit society and the institution since I am passionate about helping students grow and develop. Additionally, I have experience in mathematical modeling, including infectious disease modeling. I am dedicated to continuous learning and innovation.
 
 ## Skills
-- *Software Development:* Flutter (Dart)
-- *Backend Development:* Next.js (JavaScript)
-- *Database Management:* Firebase, Supabase, MongoDB
-- *IoT and Embedded Systems:* Arduino, C++
-- *Mathematical Modeling:* R, Python
-- *Machine Learning:* Python
-- *Programming Languages:* Python, JavaScript, C++, Dart
-- *Tools:* Postman
+
+- *Mathematical Modeling:* R
+- *Machine Learning:* R
+- *Programming Languages:* Python, R
+
 
 ## Projects
 
@@ -31,25 +28,35 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 - Data tables with model outputs
 
 
-### [IoT Home Automation](https://github.com/Daniel-techgit?tab=repositories)
-An IoT learning project that allows users to control home appliances via a mobile app. Built with Arduino and Flutter.
-
-### [Mobile Apps Portfolio](https://github.com/Daniel-techgit?tab=repositories)
-A collection of mobile app projects developed using Flutter, showcasing my growth, skills, and learning journey in mobile app development.
+### [Analysis of no-show appointment with R](https://github.com/Daniel-techgit?tab=repositories)
+#### The project addressed the following question.
+- Does the intervals between scheduledDays and appointmentDays have impact on  noshow rate.
+- Are there days that when patient rarely visit hospital to meet up with.
+- Which patient with particular diseases less come for appointment.
+- Does the age group have impact on the no-show  rate.
+- Do patient with more than one diseases increase no-show rate.
+- Is the follow up scheme used appropriately.
+ 
+### [Analysis of chips sales with R ]()
+#### The project addressed the following question.
+- The month and day with the highest and the lowest sale and the causes.
+- The most prefered pack of chips
+- The most prefered brand of chips
+- The most prefered  subscription by customer
 
 ## Certificates
 
-1. *Certificate in Python Programming*
-   - [View Certificate (IBM)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
-   - [View Certificate (CISCO)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
-
-2. *Certificate in IoT and Embedded Systems*
-   - [View Certificate (Imperial College London)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/Internet%20of%20things%20Specialization.pdf)
-   - [View Certificate (CISCO)](https://github.com/Daniel-techgit/Portfolio/blob/main/my%20cert%20from%20price/DanielAdefisoye-IOT%20FUNDAMENTALS-certificate.pdf)
+1. *Internship Certificate*
+   - [View Certificate (ICAMMDA)](https://drive.google.com/file/d/1MMPe3F7FeSHRXMPYPZyBtIetzUWg71HC/view?usp=sharing-)
+   - [View Certificate (COGNIFYZ)](https://drive.google.com/file/d/1-9Z2sAjrg8HJCmIH3D7_HqRNyMaoFTot/view?usp=sharing)
+   - [View Certificate (FORAGE)](https://drive.google.com/file/d/1dOSSTlCfPejrBJbUJIXzkubsY5lfZqvO/view?usp=sharing))
+2. *Certificate in Data analysis and science*
+   - [View Certificate (Imperial College London)]()
+   - [View Certificate (CISCO)]()
 
 3. *Certificate in Mathematics and Modeling*
-   - [View Certificate (Mathematics for Machine Learning)](https://drive.google.com/file/d/1ghrLmWay7XwkBVLAEzYQIic-sgmxqkgB/view?usp=drive_link)
-   - [View Certificate (Infectious Disease Modeling)](https://drive.google.com/file/d/1R4Z90D8ENCCuSWiTEIB0bYbVOPNqL2OA/view?usp=drive_link)
+   - [View Certificate (Mathematics for Machine Learning)]()
+   - [View Certificate (Infectious Disease Modeling)]()
   
 4. *Learning in Progress*
    - [Flutter and Firebase Chat App](https://github.com/Daniel-techgit?tab=repositories)
