@@ -58,9 +58,6 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 3. *Certificate in Mathematics and Modeling*
    - [View Certificate (Modelling and Data Analytics)]({https://drive.google.com/file/d/1iJUfJkFJq6nJSJta5EJ4LONxcwg_hz-g/view?usp=sharin)
    - [View Certificate (Infectious Disease Modeling and Analytics)](https://drive.google.com/file/d/1knthGlEhj4fRuXK4c7-0C7JbaxdJmZTW/view?usp=sharing)
-  
-4. *Learning in Progress*
-   - [Flutter and Firebase Chat App](https://github.com/Daniel-techgit?tab=repositories)
 
 ## Contact
 - [Email](mailto:oluwaseun1508@gmail.com)
