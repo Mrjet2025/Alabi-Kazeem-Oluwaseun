@@ -28,7 +28,7 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 - Data tables with model outputs
 
 
-### [Analysis of no-show appointment with R](https://github.com/Daniel-techgit?tab=repositories)
+### [Analysis of no-show appointment with R]([This is the one I have posted on RPubs](http://rpubs.com/Mrjet2020/1260641))
 #### The project addressed the following question.
 - Does the intervals between scheduledDays and appointmentDays have impact on  noshow rate.
 - Are there days that when patient rarely visit hospital to meet up with.
@@ -43,6 +43,17 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 - The most prefered pack of chips
 - The most prefered brand of chips
 - The most prefered  subscription by customer
+https://docs.google.com/presentation/d/1kcwxKrFeaFQkuYOWyzTkGBxwOcweKQmJ/edit?usp=sharing&ouid=102085384862299110924&rtpof=true&sd=true
+
+### [Analysis Buzz's with Excel ]([https://drive.google.com/file/d/1Tg9Mu_1fYltgEG1EQC00vc3EQj3X8Qwd/view?usp=sharing](https://docs.google.com/presentation/d/1kcwxKrFeaFQkuYOWyzTkGBxwOcweKQmJ/edit?usp=sharing&ouid=102085384862299110924&rtpof=true&sd=true))
+#### Insight
+- Analyzed over 24,000 content posts to identify top-performing content categories for Social Buzz, a fast-growing tech company preparing for IPO.
+- Performed data cleaning, modeling, and sentiment analysis to extract meaningful insights from high-volume unstructured data.
+- Created visualizations (pie charts, bar plots) to highlight content distribution, sentiment trends, and seasonal posting behavior.
+- Identified Animals, Science, Healthy Eating, Food, and Technology as the top 5 most popular content categories.
+- Found that 56% of content had positive sentiment, and May was the month with the highest content creation.
+- Delivered actionable insights for campaign strategy and brand partnerships, suggesting alignment with health-conscious content to boost engagement.
+
 
 ## Certificates
 
