@@ -43,7 +43,7 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 - The most prefered pack of chips
 - The most prefered brand of chips
 - The most prefered  subscription by customer
-https://docs.google.com/presentation/d/1kcwxKrFeaFQkuYOWyzTkGBxwOcweKQmJ/edit?usp=sharing&ouid=102085384862299110924&rtpof=true&sd=true
+
 
 ### [Analysis Buzz's with Excel ]([https://drive.google.com/file/d/1Tg9Mu_1fYltgEG1EQC00vc3EQj3X8Qwd/view?usp=sharing](https://docs.google.com/presentation/d/1kcwxKrFeaFQkuYOWyzTkGBxwOcweKQmJ/edit?usp=sharing&ouid=102085384862299110924&rtpof=true&sd=true))
 #### Insight
