@@ -28,7 +28,7 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 - Data tables with model outputs
 
 
-### [Analysis of no-show appointment with R](http://rpubs.com/Mrjet2020/1260641))
+### [Analysis of no-show appointment with R](http://rpubs.com/Mrjet2020/1260641)
 #### The project addressed the following question.
 - Does the intervals between scheduledDays and appointmentDays have impact on  noshow rate.
 - Are there days that when patient rarely visit hospital to meet up with.
