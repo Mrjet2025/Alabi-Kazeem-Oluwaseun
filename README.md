@@ -45,7 +45,7 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 - The most prefered  subscription by customer
 
 
-### [Analysis Buzz's with Excel ]([https://drive.google.com/file/d/1Tg9Mu_1fYltgEG1EQC00vc3EQj3X8Qwd/view?usp=sharing](https://docs.google.com/presentation/d/1kcwxKrFeaFQkuYOWyzTkGBxwOcweKQmJ/edit?usp=sharing&ouid=102085384862299110924&rtpof=true&sd=true))
+### [Analysis Buzz's with Excel ]([https://drive.google.com/file/d/1Tg9Mu_1fYltgEG1EQC00vc3EQj3X8Qwd/view?usp=sharing])
 #### Insight
 - Analyzed over 24,000 content posts to identify top-performing content categories for Social Buzz, a fast-growing tech company preparing for IPO.
 - Performed data cleaning, modeling, and sentiment analysis to extract meaningful insights from high-volume unstructured data.
