@@ -3,13 +3,13 @@
 
 ## About Me
 I am self-motivated, organized, a fast learner, and a passionate student. I respect humanity, enjoy responsibility, and am eager to take new challenges. I am a diligent, goal-oriented, love learning, and passionate about developing my tech skills.
-I aim to use my education, work experience, and multi-skill orientation to benefit society and the institution since I am passionate about helping students grow and develop. Additionally, I have experience in mathematical modeling, including infectious disease modeling. I am dedicated to continuous learning and innovation.
+I aim to use my education, work experience, and multi-skill orientation to benefit society and the institution since I am passionate about helping students grow and develop. Additionally, I have experience in mathematical modelling, including infectious disease modelling. I am dedicated to continuous learning and innovation.
 
 ## Skills
 
-- *Mathematical Modeling:* R
+- *Mathematical Mode\ling:* R
 - *Machine Learning:* R
-- *Programming Languages:* Python, R
+- *Programming Languages:* Python, R,Microsoft office, and google workspace
 
 
 ## Projects
@@ -68,7 +68,7 @@ I aim to use my education, work experience, and multi-skill orientation to benef
    - [View Certificate (Cousera](https://drive.google.com/file/d/1D2bmAeY2epSftpubnmIfYFbC40pPEAZi/view?usp=sharing)
 3. *Certificate in Mathematics and Modeling*
    - [View Certificate (Modelling and Data Analytics)](https://drive.google.com/file/d/1iJUfJkFJq6nJSJta5EJ4LONxcwg_hz-g/view?usp=sharin)
-   - [View Certificate (Infectious Disease Modeling and Analytics)](https://drive.google.com/file/d/1knthGlEhj4fRuXK4c7-0C7JbaxdJmZTW/view?usp=sharing)
+   - [View Certificate (Infectious Disease Modelling and Analytics)](https://drive.google.com/file/d/1knthGlEhj4fRuXK4c7-0C7JbaxdJmZTW/view?usp=sharing)
 
 ## Contact
 - [Email](mailto:oluwaseun1508@gmail.com)
