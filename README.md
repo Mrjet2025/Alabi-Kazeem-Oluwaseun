@@ -9,7 +9,7 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 
 - *Mathematical Mode\ling:* R
 - *Machine Learning:* R
-- *Programming Languages:* Python, R,Microsoft office, and google workspace
+- *Programming Languages:* Python, R,Microsoft office, and Google workspace
 
 
 ## Projects
