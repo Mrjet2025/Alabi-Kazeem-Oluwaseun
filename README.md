@@ -26,6 +26,38 @@ I aim to use my education, work experience, and multi-skill orientation to benef
 - Drill-down bar charts for subgroup analysis
 
 - Data tables with model outputs
+  
+### [Evaluation of (PPA) Akwa Ibom State (Batch A Stream II)(2025) ](:https://mrjet2025.shinyapps.io/PPA_APP/)
+#### Introduction.
+In line with the objectives of the NYSC scheme, I conducted a preliminary evaluation of the Place of Primary Assignment (PPA) experience among Corps Members in Akwa Ibom State (Batch A Stream II).
+The goal was to understand corps members’ living and working conditions, highlight challenges, and provide insights that may help improve welfare and productivity.
+
+
+#### Methodology.
+- Data Collection: A survey form was shared among Corps Members in Akwa Ibom State.
+- Sample Size: 57 responses were collected.
+- Process: The data was cleaned, analyzed, and summarized. An interactive R Shiny dashboard was developed to visualize the findings.
+#### Key findings
+
+
+1. Accommodation
+- 21 out of 56 corps members (37.5%) reported that no accommodation was provided at their PPA.
+2. PPA Category
+- 47 respondents (83.9%) were posted to schools.
+3. Satisfaction with PPA
+- 26 corps members (46.4%) indicated they are not satisfied with their PPA.
+4. Electricity Supply
+- 19 respondents reported no electricity at all.
+- 21 respondents reported unstable electricity.
+- Only 9 reported stable electricity.
+
+ #### Insights
+- Accommodation and electricity are critical factors influencing corps members’ satisfaction.
+The concentration of corps members in schools highlights the importance of educational institutions as major PPAs.
+While this report is based on a small sample size, the findings give useful pointers on areas where corps members face challenges.
+#### Conclusion & Next Steps
+- This is an initial report based on 57 responses. A larger survey is recommended for a more representative evaluation. The findings so far suggest that improving accommodation and electricity conditions at PPAs could enhance corps members’ welfare and performance.
+
 
 
 ### [Analysis of no-show appointment with R](http://rpubs.com/Mrjet2020/1260641)
@@ -66,7 +98,7 @@ I aim to use my education, work experience, and multi-skill orientation to benef
    - [View Certificate (HP)](https://drive.google.com/file/d/16jjrQ94Ec4CwYuVlvNf6OKIOT3k-NLty/view?usp=sharing)
    - [View Certificate (Cousera)](https://drive.google.com/file/d/1YPH0D_aJTUT1AbfwgExRYIxxmzVV0Wpo/view?usp=sharing)
    - [View Certificate (Cousera](https://drive.google.com/file/d/1D2bmAeY2epSftpubnmIfYFbC40pPEAZi/view?usp=sharing)
-3. *Certificate in Mathematics and Modeling*
+3. *Certificate in Mathematics and Modelling*
    - [View Certificate (Modelling and Data Analytics)](https://drive.google.com/file/d/1iJUfJkFJq6nJSJta5EJ4LONxcwg_hz-g/view?usp=sharin)
    - [View Certificate (Infectious Disease Modelling and Analytics)](https://drive.google.com/file/d/1knthGlEhj4fRuXK4c7-0C7JbaxdJmZTW/view?usp=sharing)
 
